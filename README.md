@@ -1,2 +1,11 @@
-# Modern_Beats-Music-Player
-Modern_Beats Music Player is a lightweight, stylish desktop music player. It features a modern glassmorphism UI, playlist management, and smooth playback for your favorite tracks.
+# 🎵 Modern_Beats Music Player
+
+<img width="256" height="256" alt="Modern Beats Icon" src="https://github.com/user-attachments/assets/a7e9d710-2803-4e66-a3af-51436f7b348c" />
+
+Modern_Beats Music Player is a lightweight, stylish desktop player with modern glassmorphism UI, playlist management, smooth playback, dark/light theme support, and a fast, enjoyable experience for your favorite tracks.
+
+
+---
+
+👨‍💻 **Developed by:** Chamoth Anuruddha  
+© 2025 Chamoth Anuruddha. All rights reserved.
