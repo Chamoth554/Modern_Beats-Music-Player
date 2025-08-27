@@ -7,6 +7,11 @@ Modern_Beats Music Player is a lightweight, stylish desktop player with modern g
 
 
 ---
+👨‍💻 **Developed by:** Chamoth Anuruddha 
+
+© 2025 Chamoth Anuruddha. All rights reserved.
+
+---
 
 ## 📥 Download  
 Get the latest release here: [Modern_Beats Releases](https://github.com/Chamoth554/Modern_Beats-Music-Player/releases)
@@ -14,10 +19,5 @@ Get the latest release here: [Modern_Beats Releases](https://github.com/Chamoth5
 
 ---
 
-👨‍💻 **Developed by:** Chamoth Anuruddha 
-
-© 2025 Chamoth Anuruddha. All rights reserved.
-
----
 
 
